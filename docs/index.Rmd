@@ -49,7 +49,11 @@ Brian Penney
 
 Bio: 
 
-Pic 
+```{r, echo = FALSE, out.width = "50%"}
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Calvin_Profile.jpg?raw=true")
+
+```
 
 Calvin Jones
 
