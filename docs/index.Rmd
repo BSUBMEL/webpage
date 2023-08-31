@@ -37,7 +37,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 Pic
 
-Sophia Theodossiou 
+Sophia Theodossiou, Ph.D.  
 
 Bio: 
 
@@ -82,4 +82,8 @@ Bio:
   + Bioengineering, 2023
 
 # News 
+
 # Contact Us
+
+* For all inquiries please email Sophia Theodossiou, Ph.D.
+  + sophiatheodossiou@boisestate.edu
