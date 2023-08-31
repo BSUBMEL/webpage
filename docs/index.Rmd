@@ -22,9 +22,15 @@ date: "2023-08-31"
 
 # Biomaterial and Musculoskeletal Engineering Lab
 
+<<<<<<< HEAD
 ```{r, echo = FALSE, out.width = "100px"}
 
 knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/BMEL/BMEL_Logo.jpg")
+=======
+```{r, echo = FALSE, out.width = "1000px"}
+
+knitr::include_graphics("/Users/calvinjones/Desktop/BMEL_Logo copy.PNG")
+>>>>>>> ba8545fdfdcb2ad44948131be7588446ce9948f5
 
 ```
 
