@@ -1,13 +1,9 @@
 ---
 title: "BMEL-Git-Hub-Page"
-output: 
-html_document:
-  toc: true
-  toc_float: true
-  theme: united
-  highlight: tango
-
-
+output:
+  html_document:
+    toc: true 
+    toc_float: true 
 date: "2023-08-31"
 ---
 
@@ -20,22 +16,68 @@ date: "2023-08-31"
 
 ```
 
-# Biomaterial and Musculoskeletal Engineering Lab
+# Biomaterial and Musculoskeletal Engineering Lab 
 
-<<<<<<< HEAD
-```{r, echo = FALSE, out.width = "100px"}
+```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/BMEL/BMEL_Logo.jpg")
-=======
-```{r, echo = FALSE, out.width = "1000px"}
-
-knitr::include_graphics("/Users/calvinjones/Desktop/BMEL_Logo copy.PNG")
->>>>>>> ba8545fdfdcb2ad44948131be7588446ce9948f5
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/BMEL/BMEL_Logo.jpg?raw=true")
 
 ```
 
-# Research 
+## Mission Statement 
+
+# Research
+
+
 # People 
+
+**Principal Investigator:** 
+
+Pic
+
+Sophia Theodossiou 
+
+Bio: 
+
+**Doctoral Students:** 
+
+Pic 
+
+Brian Penney 
+
+Bio: 
+
+Pic 
+
+Calvin Jones
+
+Bio: 
+
+**Master Students:** 
+
+Pic 
+
+Deep
+
+Bio: 
+
+**Research Assistants:**
+
+Pic 
+
+Jordan 
+
+Bio:
+
+**Undergraduates:** 
+
+**Alumni** 
+
 # Publications
+
+- [Engineering Cell-ECM-Material Interactions for Musculoskeletal Regeneration](https://www.mdpi.com/2306-5354/10/4/453)
+  + Calvin L. Jones, Brian T. Penney, and Sophia Theodossiou 
+  + Bioengineering, 2023
+
 # News 
 # Contact Us
