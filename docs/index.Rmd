@@ -93,7 +93,7 @@ Bio:
 
 # [**News**]{.underline} 
 
-## Current News 
+## Recent News 
 
 ## Past Hightlights
 
