@@ -18,7 +18,7 @@ date: "2023-08-31"
 
 ```
 
-# Biomaterial and Musculoskeletal Engineering Lab 
+# [**Biomaterial and Musculoskeletal Engineering Lab**]{.underline} 
 
 ```{r, echo = FALSE}
 
@@ -28,26 +28,31 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ## Mission Statement 
 
-# Research
+# [**Research**]{.underline}
 
+# [**People**]{.underline} 
 
-# People 
-
-**Principal Investigator:** 
+## Principal Investigator:
 
 Pic
 
-Sophia Theodossiou, Ph.D.  
+**Sophia Theodossiou, Ph.D.**
+
+sophiatheodossiou@boisestate.edu 
 
 Bio: 
 
-**Doctoral Students:** 
+## Doctoral Students: 
 
 Pic 
 
-Brian Penney 
+**Brian Penney** 
+
+brianpenney@u.boisestate.edu
 
 Bio: 
+
+*****
 
 ```{r, echo = FALSE, out.width = "50%"}
 
@@ -55,39 +60,41 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ```
 
-Calvin Jones
+**Calvin Jones**
 
-Bio: 
+calvinjones@u.boisestate.edu 
 
-**Master Students:** 
+Calvin was born and raised in El Paso, Texas. In 2021, Calvin graduated from Texas A&M University (WHOOP!) with a Bachelor's of Science in Biomedical Engineering. After graduation, Calvin worked as a research assistant for a spinal cord injury lab at the Texas A&M Health Science Center. Calvin joined BMEL in the fall of 2022 and began his doctorate in Biomedical Engineering at Boise State University. Calvin's research focuses on understanding the nanomechanical properties of novel biomaterials, and how those properties can be modulated to selectively direct the differentiation of cells in aims to improve regenerative therapies of complex musculoskeletal tissues. In his free time, Calvin enjoys watching sports, spending time with friends and family, and exploring the outdoors.  
 
-Pic 
-
-Deep
-
-Bio: 
-
-**Research Assistants:**
+## Master Students: 
 
 Pic 
 
-Jordan 
+**Deep**
+
+Bio: 
+
+## Research Assistants:
+
+Pic 
+
+**Jordan** 
 
 Bio:
 
-**Undergraduates:** 
+## Undergraduates: 
 
-**Alumni** 
+## Alumni: 
 
-# Publications
+# [**Publications**]{.underline}
 
 - [Engineering Cell-ECM-Material Interactions for Musculoskeletal Regeneration](https://www.mdpi.com/2306-5354/10/4/453)
   + Calvin L. Jones, Brian T. Penney, and Sophia Theodossiou 
   + Bioengineering, 2023
 
-# News 
+# [**News**]{.underline} 
 
-# Contact Us
+# [**Contact Us**]{.underline}
 
 * For all inquiries please email Sophia Theodossiou, Ph.D.
   + sophiatheodossiou@boisestate.edu
