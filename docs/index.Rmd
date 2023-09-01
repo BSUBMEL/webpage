@@ -17,7 +17,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ```
 
-## Mission Statement 
+## [Mission Statement](blue) 
 
 ---
 
