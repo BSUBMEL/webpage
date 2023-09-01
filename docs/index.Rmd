@@ -9,15 +9,6 @@ output:
 date: "2023-08-31"
 ---
 
-```{css, echo=FALSE}
-.scroll-100 {
-  max-height: 300px;
-  overflow-y: auto;
-  background-color: inherit;
-}
-
-```
-
 # [**Biomaterial and Musculoskeletal Engineering Lab**]{.underline} 
 
 ```{r, echo = FALSE}
@@ -28,9 +19,14 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ## Mission Statement 
 
+---
+
 # [**Research**]{.underline}
 
+---
+
 # [**People**]{.underline} 
+
 
 ## Principal Investigator:
 
@@ -52,7 +48,6 @@ brianpenney@u.boisestate.edu
 
 Bio: 
 
-*****
 
 ```{r, echo = FALSE, out.width = "50%"}
 
@@ -86,13 +81,19 @@ Bio:
 
 ## Alumni: 
 
+---
+
 # [**Publications**]{.underline}
 
 - [Engineering Cell-ECM-Material Interactions for Musculoskeletal Regeneration](https://www.mdpi.com/2306-5354/10/4/453)
   + Calvin L. Jones, Brian T. Penney, and Sophia Theodossiou 
   + Bioengineering, 2023
 
+---
+
 # [**News**]{.underline} 
+
+---
 
 # [**Contact Us**]{.underline}
 
