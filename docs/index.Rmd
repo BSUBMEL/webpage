@@ -86,7 +86,7 @@ Bio:
 # [**Publications**]{.underline}
 
 - [Engineering Cell-ECM-Material Interactions for Musculoskeletal Regeneration](https://www.mdpi.com/2306-5354/10/4/453)
-  + Calvin L. Jones, Brian T. Penney, and Sophia Theodossiou 
+  + Calvin L. Jones, Brian T. Penney, and Sophia K. Theodossiou 
   + Bioengineering, 2023
 
 ---
