@@ -97,9 +97,11 @@ Bio:
 
 ## Past Hightlights
 
----
+--- 
 
 # [**Contact Us**]{.underline}
 
 * For all inquiries please email Sophia Theodossiou, Ph.D.
   + sophiatheodossiou@boisestate.edu
+  
+## Available Postitions 
