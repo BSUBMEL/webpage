@@ -53,9 +53,9 @@ brianpenney@u.boisestate.edu
 Bio: 
 
 
-```{r, echo = FALSE, out.height = "80%"}
+```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Calvin_Profile.jpeg?raw=true")
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Calvin.jpeg?raw=true")
 
 ```
 
