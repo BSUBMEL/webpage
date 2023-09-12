@@ -40,7 +40,11 @@ Bio:
 
 ## Doctoral Students: 
 
-Pic 
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Brian%20Penney%20Photo.jpeg?raw=true")
+
+```
 
 **Brian Penney** 
 
@@ -71,11 +75,15 @@ Bio:
 
 ## Research Assistants:
 
-Pic 
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Jordan.jpg?raw=true")
+
+```
 
 **Jordan** 
 
-Bio:
+Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise State University with a Bachelor of Science in Biology and two minors in Chemistry and Biomedical Engineering. During her final semester at Boise State University, Jordan joined BMEL and has continued to work in the lab after graduation for preparation of her future endeavors towards medical school. Jordan helps PhD and Master students with their research projects wherever needed. In her time outside of the lab, Jordan enjoys spending time with family, friends, and pets, doing anything outdoors, and making art.
 
 ## Undergraduates: 
 
