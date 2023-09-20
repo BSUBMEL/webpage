@@ -1,12 +1,10 @@
 ---
-title: "BMEL-Git-Hub-Page"
 output:
   html_document:
     toc: true 
     toc_float: true 
     theme: united 
     highlight: tango 
-date: "2023-08-31"
 ---
 
 # [**Biomaterial and Musculoskeletal Engineering Lab**]{.underline} 
@@ -75,7 +73,9 @@ Calvin was born and raised in El Paso, Texas. In 2021, Calvin graduated from Tex
 
 Pic 
 
-**Deep**
+**Sourjja Deep**
+
+sourjjadeep@u.boisestate.edu 
 
 Bio: 
 
@@ -95,7 +95,20 @@ Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise Sta
 
 ## Undergraduates: 
 
-## Alumni: 
+Pic 
+
+**Skyler Kichak**
+
+Bio: 
+
+Pic 
+
+**Tawa Giwa**
+
+Bio: 
+
+
+<!-- ## Alumni: -->  
 
 ---
 
@@ -121,3 +134,5 @@ Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise Sta
   + sophiatheodossiou@boisestate.edu
   
 ## Available Postitions 
+
+* There are currently no openings for positions within the lab, however, undergraduates and potential graduate students are always encouraged to inquire. 
