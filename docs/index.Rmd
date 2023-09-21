@@ -73,7 +73,7 @@ Calvin was born and raised in El Paso, Texas. In 2021, Calvin graduated from Tex
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/IMG_8193_lab.jpeg?raw=true")
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Deep.jpeg?raw=true")
 
 ```
 
