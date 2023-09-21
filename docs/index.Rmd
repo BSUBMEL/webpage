@@ -81,7 +81,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 sourjjadeep@u.boisestate.edu 
 
-Sourjjadeepta Biswas, typically known as Sourjja Deep, hails from Bangladesh and earned his Bachelor's degree in Mechanical Engineering from NIT Surat in India. After his time in the industry in Bangladesh, he joined Boise State University's Mechanical Engineering MS program for the fall 2023. Far from home, his passion for biology and a personal experience with a fractured forearm have fueled his commitment to musculoskeletal engineering. His goal is to develop cutting-edge custom biomaterials and innovative medical devices to contribute to his lab's research in biomedical engineering. In his free time, apart from his usual human activities, he likes to gaze at the stars and contemplate over the vast tapestry of time and space.
+Sourjjadeepta Biswas, typically known as Sourjja Deep, hails from Bangladesh and earned his Bachelor's degree in Mechanical Engineering from NIT Surat in India. After his time in the industry in Bangladesh, he joined the Mechanical Engineering master’s program for the fall 2023 at Boise State University in Idaho, USA. Far from home, his passion for biology and a personal experience with a fractured forearm have fueled his commitment to musculoskeletal engineering. His goal is to develop cutting-edge custom biomaterials and innovative medical devices to contribute to his lab's research in biomedical engineering. In his free time, apart from his usual human activities, he likes to gaze upon the stars and contemplate over the vast continuum of time and space.
 
 ## Research Assistants:
 
@@ -117,9 +117,33 @@ Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise Sta
 
 # [**News**]{.underline} 
 
-## Recent News 
+<!--## Recent News--> 
 
 ## Past Hightlights
+
+[Brian and Calvin give poster presentations at Boise State's 2023 Graduate Student Showcase]{.underline}  
+
+* Brian's Poster: "Novel Probiotic Administration Route using Silk Microneedles" 
+* Calvin's Poster: "AFM Characterization of the Cellular Nanomechanical Environment" 
+* April 11, 2023, Boise, Idaho
+
+```{r, echo = FALSE, out.width= "50%"}
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/News/Brian_GSSC_23.jpg?raw=true")
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/News/Calvin_GSSC_23.jpg?raw=true")
+
+```
+
+[BMEL represents Boise State at Orthopaedic Research Society (ORS) 2023]{.underline}
+
+* February 10-14, Dallas, Texas 
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/News/ORS_2023.jpg?raw=true")
+
+```
 
 --- 
 
