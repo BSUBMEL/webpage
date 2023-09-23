@@ -35,13 +35,17 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ## Principal Investigator:
 
-Pic
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Sophia.jpg?raw=true")
+
+```
 
 **Sophia Theodossiou, Ph.D.**
 
 sophiatheodossiou@boisestate.edu 
 
-Bio: 
+Sophia was raised in Athens, Greece, and was fascinated from an early age by how living things work. She completed her BA in Human Biology and Anthropology at Northwestern University in 2012. Following a series of odd jobs (taxi driver, IHOP server, a 3 year stint in the outdoor industry, EMT), she returned to graduate school and completed her PhD in Biological Engineering at the University of Idaho, graduating in the totally normal, not at all unprecedented year of 2020. Sophia spent 2020-2022 in Boston as an NIH IRACDA Postdoctoral Scholar at Tufts University, and a T32 Organ Design and Engineering Training Program Postdoctoral Fellow at the Harvard Stem Cell Institute. In August 2022, she returned to the great state of Idaho as an Assistant Professor of Mechanical and Biomedical Engineering at Boise State University, and founded the Biomaterials and Musculoskeletal Engineering Lab, or BMEL ("BEE-mehl"). Research in BMEL seeks to understand how mechanical and biochemical signals guide musculoskeletal tissue formation during normal development, with the goal of using developmentally-inspired cues to regenerate these tissues following injury or disease. When not happily engaged in research, mentoring, teaching, or grant writing, you'll find Sophia (and usually one or more of her dogs) mountain biking, trail running, backcountry or downhill skiing, backpacking, camping, cooking, traveling, reading, unsuccessfully gardening, teaching wilderness medicine courses, volunteering for search & rescue, and sailing between uninhabited islands in her beloved Aegean sea.  
 
 ## Doctoral Students: 
 
