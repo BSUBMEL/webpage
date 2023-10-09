@@ -103,7 +103,15 @@ Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise Sta
 
 ## Undergraduates: 
 
-<!-- **Skyler Kichak**-->
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Skyler.JPG?raw=true")
+
+```
+
+**Skyler Kichak**
+
+Skyler was born in Morgantown, West Virginia and grew up in Boise, Idaho. Skyler is in his third year of Engineering +, pursuing minors in Biomedical Engineering, Chemistry and Applied Mathematics. Immersion when problem solving has been an integral part of Skyler's education; a good solution comes from a holistic understanding of the problem itself. It has always been his dream to change lives and have a little fun along the way. In supporting his dream, Skyler has worked in various kitchens across the valley and finds it an enjoyable way to support his education. Outside of school, Skyler enjoys long hikes and spending time with family.
 
 ```{r, echo = FALSE}
 
