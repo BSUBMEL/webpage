@@ -145,10 +145,11 @@ Tawa Giwa is originally from the vibrant city of Lagos, Nigeria. Currently, Tawa
 * Brian's Poster: "Silk Fibroin Microneedle Patches for Transdermal Delivery of Uncommon Therapeutics"
 * Calvin's Poster: "Defining the Macro- and Nanomechanics of Mechanically Tunable Biomaterials to Improve Control of Cellular Behavior" 
 * Jordan was a co-author on both
+* October 11-14, 2023, Seattle, Washington
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Group_BMES23.jpeg?raw=true")
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Group_BMES2023.jpeg?raw=true")
 
 ```
 ```{r, echo = FALSE, out.width= "50%"}
