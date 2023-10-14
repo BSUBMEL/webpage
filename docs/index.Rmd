@@ -138,7 +138,26 @@ Tawa Giwa is originally from the vibrant city of Lagos, Nigeria. Currently, Tawa
 
 # [**News**]{.underline} 
 
-<!--## Recent News--> 
+## Recent News
+
+[Biomedical Engineering Society (BMES) 2023 was a success!]{.underline}
+
+* Brian's Poster: "Silk Fibroin Microneedle Patches for Transdermal Delivery of Uncommon Therapeutics"
+* Calvin's Poster: "Defining the Macro- and Nanomechanics of Mechanically Tunable Biomaterials to Improve Control of Cellular Behavior" 
+* Jordan was a co-author on both
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Group_BMES23.jpeg?raw=true")
+
+```
+```{r, echo = FALSE, out.width= "50%"}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Brian_Jordan_BMES23.jpeg?raw=true")
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Calvin_Jordan_BMES23.jpeg?raw=true")
+
+```
 
 ## Past Hightlights
 
