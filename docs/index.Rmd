@@ -7,7 +7,7 @@ output:
     highlight: tango 
 ---
 
-# [**Biomaterial and Musculoskeletal Engineering Lab**]{.underline} 
+#  [**Biomaterial and Musculoskeletal Engineering Lab Est. 2022**]{.underline}
 
 ```{r, echo = FALSE}
 
@@ -24,7 +24,6 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/Background_Images/Research_Collage.JPEG?raw=true")
 
 ```
-
 
 <!--# [**Research**]{.underline}-->
 
