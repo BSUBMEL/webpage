@@ -124,6 +124,16 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 Tawa Giwa is originally from the vibrant city of Lagos, Nigeria. Currently, Tawa is in the third year of her educational adventure, working towards a degree in mechanical engineering, with an intriguing twist - a minor in Biomedical Engineering. From a young age, Tawa has been fascinated by the intricate workings of machines and the endless possibilities they offer. This fascination led Tawa to choose mechanical engineering as my field of study, where she's been exposed to a world of design, innovation, and problem-solving. Simultaneously, Tawa's minor in Biomedical Engineering allows her to explore the fascinating intersection between technology and healthcare, where she hopes to make a meaningful impact in the future. Away from the world of academia, Tawa has a rather unique hobby - exploring the global culinary landscape. Food, for her, is not just sustenance; it's a passport to different cultures and traditions. Whether she's savoring the intricate flavors of Asian cuisine or indulging in the comforting familiarity of home-cooked meals, Tawa is always excited to explore new tastes and experiences.
 
 
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Taylor.jpg?raw=true")
+
+```
+
+**Taylor Izzard**
+
+Taylor was born in Everett, Washington and raised in Coeur d'Alene, Idaho. In Spring 2023, he graduated from North Idaho College with an Associate Degree in General Studies. Taylor is in his first year of studying Kinesiology with an emphasis in Neuromechanical Science while also pursuing a Biomedical Engineering Minor. He loves to constantly learn as much as possible about everything he can, whether that be inside or outside of his formal education. A career in biology has always been on his radar, and being in BMEL allows him to learn how a lab works while simultaneously contributing to meaningful research. Outside of education, Taylor loves getting outside regardless of the weather or other conditions. During the summers, he works for a whitewater fishing guide company on the Deschutes River, Oregon. The few times that he is not able to get outside, Taylor still loves to learn a variety of skills such as sewing, the German language, daydreaming, and music.
+
 <!-- ## Alumni: -->  
 
 ---
