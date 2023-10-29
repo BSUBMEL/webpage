@@ -7,7 +7,8 @@ output:
     highlight: tango 
 ---
 
-#  [**Biomaterial and Musculoskeletal Engineering Lab Est. 2022**]{.underline}
+#  [**Biomaterial and Musculoskeletal Engineering Lab**]{.underline}
+<div align="center">**Est. 2022**
 
 ```{r, echo = FALSE}
 
