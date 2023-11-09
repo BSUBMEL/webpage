@@ -1,9 +1,9 @@
 ---
 output:
   rmarkdown::html_document:
-    toc: true 
-    toc_float: true 
-    theme: united 
+    toc: TRUE
+    toc_float: TRUE 
+    theme: united
     highlight: tango 
 ---
 
