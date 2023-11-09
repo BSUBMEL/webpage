@@ -1,6 +1,6 @@
 ---
 output:
-  html_document:
+  rmarkdown::html_document:
     toc: true 
     toc_float: true 
     theme: united 
@@ -30,8 +30,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ---
 
-# [**People**]{.underline} 
-
+# [**People**]{.underline}
 
 ## Principal Investigator:
 
