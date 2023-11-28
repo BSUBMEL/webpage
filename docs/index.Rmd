@@ -25,6 +25,11 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/Background_Images/Research_Collage.JPEG?raw=true")
 
 ```
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Background_Images/Research_collage_2.jpg?raw=true")
+
+```
 
 <!--# [**Research**]{.underline}-->
 
