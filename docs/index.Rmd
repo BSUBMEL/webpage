@@ -154,6 +154,34 @@ Taylor was born in Everett, Washington and raised in Coeur d'Alene, Idaho. In Sp
 
 ## Recent News
 
+[European Open Source 3D Bioprinting Workshop 2023]{.underline}
+
+* December 11-13, 2023, Vienna, Austria
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/GroupPhoto_EuropeanOpenSourceBioprinting_23.jpg?raw=true")
+
+```
+```{r, echo = FALSE, out.width= "33.33%"}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Cathedral_EuropeanOpenSourceBioprinting_23.jpg?raw=true")
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/CreamPrint_EuropeanOpenSourceBioprinting_23.jpg?raw=true")
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/BuildingPrinter_EuropeanOpenSourceBioprinting_23.jpg?raw=true")
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Ingelprint_EuropeanOpenSourceBioprinting_23.jpg?raw=true")
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/BoiseB_EuropeanOpenSourceBioprinting_23.jpg?raw=true")
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/DroppingBox_EuropeanOpenSourceBioprinting_23.jpg?raw=true")
+
+```
+
+
+## Past Highlights
+
 [Biomedical Engineering Society (BMES) 2023 was a success!]{.underline}
 
 * Brian's Poster: "Silk Fibroin Microneedle Patches for Transdermal Delivery of Uncommon Therapeutics"
@@ -173,8 +201,6 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Calvin_Jordan_BMES23.jpeg?raw=true")
 
 ```
-
-## Past Highlights
 
 [Brian and Calvin give poster presentations at Boise State's 2023 Graduate Student Showcase]{.underline}  
 
