@@ -111,6 +111,16 @@ Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise Sta
 
 ```{r, echo = FALSE}
 
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/DanteCalarco.jpg?raw=true")
+
+```
+
+**Dante Calarco**
+
+Dante was born and raised in Chico, CA. After high school, Dante did two years at Butte College for pre-med before transferring to Boise State as a Mechanical Engineering student while also pursuing a minor in Biomedical Engineering. Dante has always been interested in the STEM field, however his interest in engineering and biomechanics grew through football and wrestling injuries, as well working in various manual labor jobs. His experiences have lead him to the goal of becoming an engineer working on medical devices, advanced prosthetics, or ergonomic design. Outside of school, Dante likes to spend time with friends and family, hiking, fishing, and working out.
+
+```{r, echo = FALSE}
+
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Skyler.JPG?raw=true")
 
 ```
