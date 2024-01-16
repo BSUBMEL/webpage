@@ -233,3 +233,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 ## Available Postitions 
 
 * There are currently no openings for positions within the lab, however, undergraduates and potential graduate students are always encouraged to inquire. 
+
+--- 
+
+*This website reflects only BMEL and is not a publication of Boise State University, which bears no responsibility for its content.*
