@@ -20,7 +20,6 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 <!--## **Mission Statement** -->
 
----
 
 ```{r, echo = FALSE}
 
@@ -34,6 +33,10 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Bac
 ```
 
 <!--# [**Research**]{.underline}-->
+
+**BMEL combines the use natural and synthetic biomaterials along with human and non-human stem cells to develop 3D models of musculoskeletal development and disease, with the ultimate goal of regenerating musculoskeletal tissues following injury or disease.**
+
+**Research in BMEL combines engineering, biology, and materials science to understand how mechanical and biochemical signals drive musculoskeletal development, maturation, and disease. BMEL uses various materials and custom, 3D printed bioreactors and scaffolds to understand how biomechanical cues can be harnessed to regenerate and repair musculoskeletal tissues.**
 
 ---
 
