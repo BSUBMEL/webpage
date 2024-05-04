@@ -104,7 +104,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ```
 
-**Jordan** 
+**Jordan Daw** 
 
 jordandaw@u.boisestate.edu
 
@@ -152,6 +152,20 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 **Taylor Izzard**
 
 Taylor was born in Everett, Washington and raised in Coeur d'Alene, Idaho. In Spring 2023, he graduated from North Idaho College with an Associate Degree in General Studies. Taylor is in his first year of studying Kinesiology with an emphasis in Neuromechanical Science while also pursuing a Biomedical Engineering Minor. He loves to constantly learn as much as possible about everything he can, whether that be inside or outside of his formal education. A career in biology has always been on his radar, and being in BMEL allows him to learn how a lab works while simultaneously contributing to meaningful research. Outside of education, Taylor loves getting outside regardless of the weather or other conditions. During the summers, he works for a whitewater fishing guide company on the Deschutes River, Oregon. The few times that he is not able to get outside, Taylor still loves to learn a variety of skills such as sewing, the German language, daydreaming, and music.
+
+## Interns and Rotating Students
+
+### Medical Students
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Karsen_Krebs.jpg?raw=true")
+
+```
+
+**Karsen Krebs** 
+
+Karsen was born and raised in Plains, MT and graduated from Montana State University in 2021, earning a Bachelor’s degree in Exercise Science with an emphasis in pre-medical studies. Currently, he is finishing his first year of medical school at the Idaho College of Osteopathic Medicine and is interested in pursuing the fields of orthopedics and sports medicine and getting involved with musculoskeletal research efforts. Outside of school, Karsen is a new dad, musician, and private pilot, while also enjoying anything outdoors, especially hunting and fishing.
 
 <!-- ## Alumni: -->  
 
