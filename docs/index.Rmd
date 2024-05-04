@@ -170,7 +170,32 @@ Taylor was born in Everett, Washington and raised in Coeur d'Alene, Idaho. In Sp
 
 ## Recent News
 
-[BMEL travels to the Medical University of Vienna for the European Open Source 3D Bioprinting Workshop 2023!]{.underline}
+[**BMEL confocal images of 3D cellular constructs get selected for display at the Stein Luminary digital art museum**]{.underline}
+
+* Title of exhibit: "The Smallest Energy Users: Muscle Cells and their First Days of Development"
+* April 5, 2024, The Keith and Catherine Stein Luminary, Boise, Idaho
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Luminary_2024.jpg?raw=true")
+
+```
+
+## Past Highlights
+
+[**Dr. Theodossiou gives insightful podium presentation at Orthopaedic Research Society (ORS) 2024**]{.underline}
+
+* Title: "Disabling Mechanosensing via the LINC Complex Impacts Developing Tendon Mechanics and Collagen Morphology"
+* Accepted Abstract Authors: Jordan T. Daw, Brian T. Penney, Calvin L. Jones, Nicholas M. Pancheri, Scott Birks, Gunes Uzer, Nathan R. Schiele, Sophia K. Theodossiou 
+* February 2-6, 2024, Long Beach, California
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Sophia_Podium_ORS2024.jpg?raw=true")
+
+```
+
+[**BMEL travels to the Medical University of Vienna for the European Open Source 3D Bioprinting Workshop 2023!**]{.underline}
 
 * December 11-13, 2023, Vienna, Austria
 
@@ -180,9 +205,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```
 
-## Past Highlights
-
-[Biomedical Engineering Society (BMES) 2023 was a success!]{.underline}
+[**Biomedical Engineering Society (BMES) 2023 was a success!**]{.underline}
 
 * Brian's Poster: "Silk Fibroin Microneedle Patches for Transdermal Delivery of Uncommon Therapeutics"
 * Calvin's Poster: "Defining the Macro- and Nanomechanics of Mechanically Tunable Biomaterials to Improve Control of Cellular Behavior" 
@@ -202,7 +225,19 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```
 
-[Brian and Calvin give poster presentations at Boise State's 2023 Graduate Student Showcase]{.underline}  
+[**Calvin completes Directed Research Internship at the University of Texas Southwestern**]{.underline}
+
+* Internship was in the Dean Lab, Advanced Imaging Laboratory, under Dr. Kevin Dean
+* Calvin's main project focused on inserting a fluorescent mechanosensitive channel of conductance in melanoma cells to study membrane tension in cancerous conditions. Calvin also assisted in 3D imaging of cells in biomaterials using novel light sheet microscopes as well as designing and 3D printing parts for custom light sheet microscopes. 
+* Summer 2023, Lyda Hill Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, Texas
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Calvin_Intership.jpg?raw=true")
+
+```
+
+[**Brian and Calvin give poster presentations at Boise State's 2023 Graduate Student Showcase**]{.underline}  
 
 * Brian's Poster: "Novel Probiotic Administration Route using Silk Microneedles" 
 * Calvin's Poster: "AFM Characterization of the Cellular Nanomechanical Environment" 
@@ -216,7 +251,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ```
 
-[BMEL represents Boise State at Orthopaedic Research Society (ORS) 2023]{.underline}
+[**BMEL represents Boise State at Orthopaedic Research Society (ORS) 2023**]{.underline}
 
 * February 10-14, Dallas, Texas 
 
