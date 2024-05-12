@@ -159,6 +159,16 @@ Taylor was born in Everett, Washington and raised in Coeur d'Alene, Idaho. In Sp
 
 ```{r, echo = FALSE}
 
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Jonathon_Netter.jpeg?raw=true")
+
+```
+
+**Jonathan Netter** 
+
+Jonathan was born and raised in Sonoma, California. He completed his Bachelor’s of Science in Bioengineering: pre-medical at the University of California at San Diego. After receiving his degree, he worked in an orthopedic lab quantifying material wear for total knee and hip prosthetic implants. He also developed computer models which validated the experiments to predict wear rates in future untested designs. After helping a few patients in the lab, Jonathan decided he wanted to pursue a career in medicine to have more of these interactions helping patients. Currently, he is finalizing his first year of medical school at Idaho College of Osteopathic Medicine. Grounded in research, Jonathan hopes to bridge the gap from the lab bench to the clinic to offer novel and effective solutions to existing medical problems. He is particularly interested in understanding cartilage injury and repair mechanisms. In his free time, you might catch Jonathan golfing, hiking, lifting weights, strumming the guitar or playing chess.
+
+```{r, echo = FALSE}
+
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Karsen_Krebs.jpg?raw=true")
 
 ```
