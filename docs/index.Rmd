@@ -96,19 +96,7 @@ sourjjadeep@u.boisestate.edu
 
 Sourjjadeepta Biswas, typically known as Sourjja Deep, hails from Bangladesh and earned his Bachelor's degree in Mechanical Engineering from NIT Surat in India. After his time in the industry in Bangladesh, he joined the Mechanical Engineering master’s program for the fall 2023 at Boise State University in Idaho, USA. Far from home, his passion for biology and a personal experience with a fractured forearm have fueled his commitment to musculoskeletal engineering. His goal is to develop cutting-edge custom biomaterials and innovative medical devices to contribute to his lab's research in biomedical engineering. In his free time, apart from his usual human activities, he likes to gaze upon the stars and contemplate over the vast continuum of time and space.
 
-## Laboratory Technicians
-
-```{r, echo = FALSE}
-
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Jordan.jpg?raw=true")
-
-```
-
-**Jordan Daw** 
-
-jordandaw@u.boisestate.edu
-
-Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise State University with a Bachelor of Science in Biology and two minors in Chemistry and Biomedical Engineering. During her final semester at Boise State University, Jordan joined BMEL and has continued to work in the lab after graduation for preparation of her future endeavors towards medical school. Jordan helps PhD and Master students with their research projects wherever needed. In her time outside of the lab, Jordan enjoys spending time with family, friends, and pets, doing anything outdoors, and making art.
+<!-- ## Laboratory Technicians -->
 
 ## Undergraduate Students
 
@@ -177,7 +165,23 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 Karsen was born and raised in Plains, MT and graduated from Montana State University in 2021, earning a Bachelor’s degree in Exercise Science with an emphasis in pre-medical studies. Currently, he is finishing his first year of medical school at the Idaho College of Osteopathic Medicine and is interested in pursuing the fields of orthopedics and sports medicine and getting involved with musculoskeletal research efforts. Outside of school, Karsen is a new dad, musician, and private pilot, while also enjoying anything outdoors, especially hunting and fishing.
 
-<!-- ## Alumni: -->  
+## Alumni:  
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Jordan.jpg?raw=true")
+
+```
+
+**Jordan Daw** 
+
+**Position Held:** Laboratory Technician 
+
+**At BMEL:** Jordan played a crucial role in establishing BMEL, initially as the lab's first undergraduate and later as a Lab Tech. Jordan contributed to various projects, which incorporated biomaterial synthesis, 3D printing, design, cell culture, and mechanical testing, and also established many of the lab's protocols. 
+
+**Now:** Happily married and in pursuit of becoming an M.D.!
+
+<!--Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise State University with a Bachelor of Science in Biology and two minors in Chemistry and Biomedical Engineering. During her final semester at Boise State University, Jordan joined BMEL and has continued to work in the lab after graduation for preparation of her future endeavors towards medical school. Jordan helps PhD and Master students with their research projects wherever needed. In her time outside of the lab, Jordan enjoys spending time with family, friends, and pets, doing anything outdoors, and making art. -->
 
 ---
 
