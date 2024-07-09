@@ -165,7 +165,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 Karsen was born and raised in Plains, MT and graduated from Montana State University in 2021, earning a Bachelor’s degree in Exercise Science with an emphasis in pre-medical studies. Currently, he is finishing his first year of medical school at the Idaho College of Osteopathic Medicine and is interested in pursuing the fields of orthopedics and sports medicine and getting involved with musculoskeletal research efforts. Outside of school, Karsen is a new dad, musician, and private pilot, while also enjoying anything outdoors, especially hunting and fishing.
 
-## Alumni:  
+## Alumni  
 
 ```{r, echo = FALSE}
 
