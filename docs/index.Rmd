@@ -198,7 +198,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ## Recent News
 
-[**Skyler Presents his proposed research for his Summer NASA Idaho Space Grant Consortium (ISGC) internship at The 2024 Idaho Conference on Undergraduate Research (ICUR)**]{.underline}
+[**Skyler presents his proposed research for his NASA Idaho Space Grant Consortium (ISGC) internship at The 2024 Idaho Conference on Undergraduate Research (ICUR)**]{.underline}
 
 * Skyler was awarded with ISGC funding for is proposed project for Summer 2024!
 * Title of Poster: "The Role of Circadian Signaling in Astronaut Tendon Strength"
