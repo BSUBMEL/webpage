@@ -204,11 +204,9 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 * Title of Poster: "The Role of Circadian Signaling in Astronaut Tendon Strength"
 * April 5, 2024, The Keith and Catherine Stein Luminary, Boise, Idaho
 
-```{r, , echo = FALSE, out.width= "50%"}
+```{r, , echo = FALSE}
 
 knitr::include_graphics("https://raw.githubusercontent.com/BSUBMEL/webpage/a7e5d1e3122aedd7835698385f41cc14c3313571/images/News/skyler__ICUR2024_1.jpg")
-
-knitr::include_graphics("https://raw.githubusercontent.com/BSUBMEL/webpage/a7e5d1e3122aedd7835698385f41cc14c3313571/images/News/skyler__ICUR2024_2.jpg")
 
 ```
 
