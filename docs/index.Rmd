@@ -198,6 +198,22 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ## Recent News
 
+[**Skyler Presents his proposed research for his Summer NASA Idaho Space Grant Consortium Internship (ISGC) at The 2024 Idaho Conference on Undergraduate Research (ICUR)**]{.underline}
+
+* Skyler was awarded with ISGC funding for is proposed project for Summer 2024!
+* Title of Poster: "The Role of Circadian Signaling in Astronaut Tendon Strength"
+* April 5, 2024, The Keith and Catherine Stein Luminary, Boise, Idaho
+
+```{r, , echo = FALSE, out.width= "50%"}
+
+knitr::include_graphics("https://raw.githubusercontent.com/BSUBMEL/webpage/a7e5d1e3122aedd7835698385f41cc14c3313571/images/News/skyler__ICUR2024_1.jpg")
+
+knitr::include_graphics("https://raw.githubusercontent.com/BSUBMEL/webpage/a7e5d1e3122aedd7835698385f41cc14c3313571/images/News/skyler__ICUR2024_2.jpg")
+
+```
+
+## Past Highlights
+
 [**BMEL confocal images of 3D cellular constructs get selected for display at the Stein Luminary digital art museum**]{.underline}
 
 * Title of exhibit: "The Smallest Energy Users: Muscle Cells and their First Days of Development"
@@ -208,8 +224,6 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Luminary_2024.jpg?raw=true")
 
 ```
-
-## Past Highlights
 
 [**Dr. Theodossiou gives insightful podium presentation at Orthopaedic Research Society (ORS) 2024**]{.underline}
 
