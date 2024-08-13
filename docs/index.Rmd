@@ -198,6 +198,19 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ## Recent News
 
+[**The 2024 Musculoskeletal Biology and Bioengineering Gordon Research Seminar and Conference (GRS, GRC) were an incredible experience!**]{.underline}
+
+* Brian's Poster: "Modeling Early Osteoarthritic Environments via Dynamically Stiffening Silk Scaffolds with cocultured Macrophages and Chondrocytes"
+* Calvin's Poster: "Nanomechanically Tunable Biomaterials for Directed Musculoskeletal Tissue Differentiation"
+* Accepted abstract co-authors between both presentations: Jordan T. Daw, Taylor Izzard, Jonathan Netter, Sophia K. Theodossiou
+* August 3-4, 4-9, 2024, Proctor Academy, Andover, NH
+
+```{r, , echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/GRC_2024_Group_Photo.png?raw=true")
+
+```
+
 [**Skyler presents his proposed research for his NASA Idaho Space Grant Consortium (ISGC) internship at The 2024 Idaho Conference on Undergraduate Research (ICUR)**]{.underline}
 
 * Skyler was awarded with ISGC funding for his proposed project for Summer 2024!
