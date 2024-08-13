@@ -203,7 +203,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 * Brian's Poster: "Modeling Early Osteoarthritic Environments via Dynamically Stiffening Silk Scaffolds with cocultured Macrophages and Chondrocytes"
 * Calvin's Poster: "Nanomechanically Tunable Biomaterials for Directed Musculoskeletal Tissue Differentiation"
 * Accepted abstract co-authors between both presentations: Jordan T. Daw, Taylor Izzard, Jonathan Netter, Sophia K. Theodossiou
-* August 3-4, 4-9, 2024, Proctor Academy, Andover, NH
+* August 3-4, 4-9, 2024, Proctor Academy, Andover, New Hampshire
 
 ```{r, , echo = FALSE}
 
