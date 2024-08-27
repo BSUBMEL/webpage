@@ -122,17 +122,6 @@ Skyler was born in Morgantown, West Virginia and grew up in Boise, Idaho. Skyler
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Tawa.jpeg?raw=true")
-
-```
-
-**Tawa Giwa**
-
-Tawa Giwa is originally from the vibrant city of Lagos, Nigeria. Currently, Tawa is in the third year of her educational adventure, working towards a degree in mechanical engineering, with an intriguing twist - a minor in Biomedical Engineering. From a young age, Tawa has been fascinated by the intricate workings of machines and the endless possibilities they offer. This fascination led Tawa to choose mechanical engineering as my field of study, where she's been exposed to a world of design, innovation, and problem-solving. Simultaneously, Tawa's minor in Biomedical Engineering allows her to explore the fascinating intersection between technology and healthcare, where she hopes to make a meaningful impact in the future. Away from the world of academia, Tawa has a rather unique hobby - exploring the global culinary landscape. Food, for her, is not just sustenance; it's a passport to different cultures and traditions. Whether she's savoring the intricate flavors of Asian cuisine or indulging in the comforting familiarity of home-cooked meals, Tawa is always excited to explore new tastes and experiences.
-
-
-```{r, echo = FALSE}
-
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Taylor.jpg?raw=true")
 
 ```
@@ -182,6 +171,23 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 **Now:** Happily married and in pursuit of becoming an M.D.!
 
 <!--Jordan was born in Boise, Idaho. In May of 2023, Jordan graduated from Boise State University with a Bachelor of Science in Biology and two minors in Chemistry and Biomedical Engineering. During her final semester at Boise State University, Jordan joined BMEL and has continued to work in the lab after graduation for preparation of her future endeavors towards medical school. Jordan helps PhD and Master students with their research projects wherever needed. In her time outside of the lab, Jordan enjoys spending time with family, friends, and pets, doing anything outdoors, and making art. -->
+
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Tawa.jpeg?raw=true")
+
+```
+
+**Tawa Giwa**
+
+**Position Held:** Undergraduate Researcher
+
+**At BMEL:** Tawa was actively involved in cell culture and regularly assisted with the synthesis of silk fibroin microneedles.
+
+**Now:** In pursuit of completing her undergraduate in Mechanical Engineering!
+
+<!--Tawa Giwa is originally from the vibrant city of Lagos, Nigeria. Currently, Tawa is in the third year of her educational adventure, working towards a degree in mechanical engineering, with an intriguing twist - a minor in Biomedical Engineering. From a young age, Tawa has been fascinated by the intricate workings of machines and the endless possibilities they offer. This fascination led Tawa to choose mechanical engineering as my field of study, where she's been exposed to a world of design, innovation, and problem-solving. Simultaneously, Tawa's minor in Biomedical Engineering allows her to explore the fascinating intersection between technology and healthcare, where she hopes to make a meaningful impact in the future. Away from the world of academia, Tawa has a rather unique hobby - exploring the global culinary landscape. Food, for her, is not just sustenance; it's a passport to different cultures and traditions. Whether she's savoring the intricate flavors of Asian cuisine or indulging in the comforting familiarity of home-cooked meals, Tawa is always excited to explore new tastes and experiences.-->
 
 ---
 
