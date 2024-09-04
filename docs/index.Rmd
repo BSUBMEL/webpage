@@ -86,6 +86,18 @@ Calvin was born and raised in El Paso, Texas. In 2021, Calvin graduated from Tex
 
 ```{r, echo = FALSE}
 
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/McKaelin.jpg?raw=true")
+
+```
+
+**McKaelin Edralin**
+
+mckaelinedralin@u.boisestate.edu
+
+McKaelin was born and raised in Kauai, Hawaii. McKaelin graduated from Brigham Young University in 2024 with a Bachelor of Science in Mechanical Engineering. His undergraduate research focused on developing a mathematical model to predict the rigid foldability in deployable mechanisms whose tiles are formed by a Hamiltonian circuit, characterizing the distribution of tremor in the six degrees of freedom of the hand, and designing a combined electromagnetic and piezoelectric shaker system for high-frequency environment testing. He joined the Mechanical Engineering Master's program in the Fall of 2024. His research focuses on using low-intensity vibrations to improve tendon healing. In his free time, McKaelin enjoys traveling, reading, hiking, swimming, cooking, and spending time with family.
+
+```{r, echo = FALSE}
+
 knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Deep.jpeg?raw=true")
 
 ```
