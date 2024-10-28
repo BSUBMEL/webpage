@@ -86,7 +86,7 @@ Calvin was born and raised in El Paso, Texas. In 2021, Calvin graduated from Tex
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//images//People//0.jpg?raw=true")
+knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//images//People//McKaelin.jpg?raw=true")
 
 ```
 
@@ -111,6 +111,16 @@ Sourjjadeepta Biswas, typically known as Sourjja Deep, hails from Bangladesh and
 <!-- ## Laboratory Technicians -->
 
 ## Undergraduate Students
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Chase.jpg?raw=true")
+
+```
+
+**Chase Johnson**
+
+Chase Johnson was born in Davis, CA and originally came to Boise State University to pursue a nursing degree. After two years he decided his passion lies in biomedical devices and is currently in his third year of pursuing a degree in Engineering + with a minor in biomedical engineering. Chase is very passionate about striving to change the lives of patients in their current condition as well as further advancing the current technologies of biomedical devices. Outside of academics, Chase does whatever it takes to stay active by lifting weights, skiing, and hiking.
 
 ```{r, echo = FALSE}
 
