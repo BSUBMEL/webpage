@@ -134,6 +134,16 @@ Dante was born and raised in Chico, CA. After high school, Dante did two years a
 
 ```{r, echo = FALSE}
 
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Oliver.jpg?raw=true")
+
+```
+
+**Oliver Daly**
+
+Oliver Daly was born in Oceanside, CA but grew up in Meridian, ID and is going to Boise State University to pursue a degree in Mechanical Engineering. With his degree he is hoping to use it for good and help a community in need or bring people joy. Joining the BMEL has opened a door for him to work on biomedical devices and learn about the vast range of applications biomedical engineering has to offer. He hopes to keep options open, looking at potential minors to add to his education and how he can change the lives of those around him. Outside of academia, Oliver enjoys watching a variety of movies, playing video games, and working on cars. When not inside, he is still hanging out with friends on adventures to climb, ski, or find food.
+
+```{r, echo = FALSE}
+
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Skyler.JPG?raw=true")
 
 ```
