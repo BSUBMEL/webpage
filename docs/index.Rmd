@@ -225,7 +225,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
  + Oral Platform: "Silk Fibroin Microneedle Patches: A Cheap, Modular Drug Delivery System for Uncommon and Challenging Therapeutics"
  + Poster: "KASH-Disrupted Nuclear Mechanosensation in Tendon"
 * [Deep's Poster:]{.underline} "Predictable Stiffness and Rapid Crosslinking: 3D Printing with Novel SF-Alginate Bioink"
-* Accepted abstract co-authors between all presentations: Jordan T. Daw, Taylor Izzard, Skyler Kichak, Antonio Reyes, Amevi Semodji, Mason Fort, Tawakalitu Giwa, Victor Nguyen, Konrad Meister, Trevor Lujan Paul Davis, Gunes Uzer, Sophia K. Theodossiou
+* Accepted abstract co-authors between all presentations: Jordan T. Daw, Taylor Izzard, Skyler Kichak, Antonio Reyes, Amevi Semodji, Mason Fort, Tawakalitu Giwa, Victor Nguyen, Konrad Meister, Trevor Lujan, Paul Davis, Gunes Uzer, Sophia K. Theodossiou
 * October 23-26, 2024, Baltimore, Maryland 
 
 ```{r, , echo = FALSE}
