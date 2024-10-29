@@ -162,6 +162,16 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 Taylor was born in Everett, Washington and raised in Coeur d'Alene, Idaho. In Spring 2023, he graduated from North Idaho College with an Associate Degree in General Studies. Taylor is in his first year of studying Kinesiology with an emphasis in Neuromechanical Science while also pursuing a Biomedical Engineering Minor. He loves to constantly learn as much as possible about everything he can, whether that be inside or outside of his formal education. A career in biology has always been on his radar, and being in BMEL allows him to learn how a lab works while simultaneously contributing to meaningful research. Outside of education, Taylor loves getting outside regardless of the weather or other conditions. During the summers, he works for a whitewater fishing guide company on the Deschutes River, Oregon. The few times that he is not able to get outside, Taylor still loves to learn a variety of skills such as sewing, the German language, daydreaming, and music.
 
+```{r, echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Topher.jpg?raw=true")
+
+```
+
+**Christopher Turmes**
+
+Topher is an Idahoan native, born and raised in the Boise area. He is currently a CWI student and CAES scholarship recipient, working towards his Associate's in Engineering. After his time at CWI, he plans on transferring to BSU to focus on Biomedical Engineering with a Biochem focus. Originally wanting to be a veterinarian, he came to understand engineering was his true calling. The combination of biology and chemistry in the Biomedical Engineering field brought him in, and now he is chomping at the bit for any research experience. Topher is driven to leverage a research background in pursuit of novel therapeutics and, ultimately, a cure for Eosinophilic Esophagitis. Outside of school, Topher draws, plays video games, gardens, crochets, sews, and goes to local metal and electronic music shows.
+
 ## Interns and Rotating Students
 
 ### Medical Students
