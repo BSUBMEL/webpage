@@ -246,12 +246,27 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 ## Recent News
 
-[**Boise State was well represented at Biomedical Engineering Society (BMES) 2024!**]{.underline}
+[**Escaping the winter weather at Orthopaedic Research Society (ORS) 2025!**]{.underline}
+
+* Calvin's Poster: "Nanomechanically Tunable Biomaterials for Directed Myotendinous Junction Tissue Differentiation"
+* Brian's Poster: "KASH-Disrupted Nuclear Mechanosensation in Tendon"
+* Accepted abstract co-authors between all presentations: Jordan T. Daw, Taylor Izzard, Skyler Kichak, Gunes Uzer, Sophia K. Theodossiou
+* February 7-11, 2025, Phoenix, Arizona 
+
+```{r, , echo = FALSE}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/ors_2025.jpg?raw=true")
+
+```
+
+## Past Highlights
+
+[**Boise State was well represented at Biomedical Engineering Society (BMES) 2024!**]{.underline} 
 
 * [Calvin's Presentations:]{.underline}
  + Oral Platform: "Nanomechanically Tunable Biomaterials for Directed Musculoskeletal Tissue Differentiation"
  + Oral Platform: "Pre-Staining Silk Fibroin with Sudan Black B Attenuates Autofluorescence and Maintains Hydrogel Cytocompatibility and Physiologically-Relevant Mechanical Properties"
-* [Brian's Presentation's:]{.underline} 
+* [Brian's Presentations:]{.underline} 
  + Oral Platform: "Silk Fibroin Microneedle Patches: A Cheap, Modular Drug Delivery System for Uncommon and Challenging Therapeutics"
  + Poster: "KASH-Disrupted Nuclear Mechanosensation in Tendon"
 * [Deep's Poster:]{.underline} "Predictable Stiffness and Rapid Crosslinking: 3D Printing with Novel SF-Alginate Bioink"
@@ -267,8 +282,6 @@ knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//image
 knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//images//News//Deep_BMES24.JPEG?raw=true")
 
 ```
-
-## Past Highlights
 
 [**The 2024 Musculoskeletal Biology and Bioengineering Gordon Research Seminar and Conference (GRS, GRC) were an incredible experience!**]{.underline}
 
