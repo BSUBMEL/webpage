@@ -249,6 +249,10 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 - [Engineering Cell-ECM-Material Interactions for Musculoskeletal Regeneration](https://www.mdpi.com/2306-5354/10/4/453)
   + Calvin L. Jones, Brian T. Penney, and Sophia K. Theodossiou 
   + Bioengineering, 2023
+  
+- [The LINC complex regulates Achilles tendon elastic modulus, Achilles and tail tendon collagen crimp, and Achilles and tail tendon lateral expansion during early postnatal development](https://pmc.ncbi.nlm.nih.gov/articles/PMC10680625/)
+  + Nicholas M. Pancheri, Jordan T. Daw, Destinee Ditton, Nathan R. Schiele, Scott Birks, Gunes Uzer, Calvin L. Jones, Brian T. Penney, Sophia K. Theodossiou 
+  + Journal of Orthopaedic Research, 2025
 
 ---
 
