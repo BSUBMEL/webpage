@@ -134,6 +134,16 @@ Dante was born and raised in Chico, CA. After high school, Dante did two years a
 
 ```{r, echo = FALSE}
 
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Emily.jpeg?raw=true")
+
+```
+
+**Emily Baclayon**
+
+Emily was born and raised in Taiwan before immigrating to the U.S. with her family in 2018. Prior to Boise State, she earned her associate’s degree in general studies from Idaho State University. Currently, she’s pursuing a degree Mechanical Engineering with a minor in Biomedical engineering. Being part of BMEL has allowed her to take an applied approach to her learning and explore potential career options. Whatever it may be, she hopes to make a difference in impoverished communities. Outside of school, Emily plays music for the community and enjoys spending time at coffee shops.
+
+```{r, echo = FALSE}
+
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Oliver.jpg?raw=true")
 
 ```
