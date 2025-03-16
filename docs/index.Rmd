@@ -250,7 +250,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
   + Calvin L. Jones, Brian T. Penney, and Sophia K. Theodossiou 
   + Bioengineering, 2023
   
-- [The LINC complex regulates Achilles tendon elastic modulus, Achilles and tail tendon collagen crimp, and Achilles and tail tendon lateral expansion during early postnatal development](https://pmc.ncbi.nlm.nih.gov/articles/PMC10680625/)
+- [The LINC complex regulates Achilles tendon elastic modulus, Achilles and tail tendon collagen crimp, and Achilles and tail tendon lateral expansion during early postnatal development](https://doi.org/10.1002/jor.26069)
   + Nicholas M. Pancheri, Jordan T. Daw, Destinee Ditton, Nathan R. Schiele, Scott Birks, Gunes Uzer, Calvin L. Jones, Brian T. Penney, Sophia K. Theodossiou 
   + Journal of Orthopaedic Research, 2025
 
