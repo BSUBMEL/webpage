@@ -260,6 +260,21 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 ## Recent News
 
+[**Brian and Deep give poster presentations at Boise State's 2025 Graduate Student Showcase**]{.underline}  
+
+* Brian's Poster: "TGFB-2 Increases B-Catenin Expression and Prevents Apoptosis in KASH-Disrupted Mechanically Insensitive Cells" 
+* Deep's Poster: "A Combines-Modeling and Hardware Approach to Mechanically Characterze TASF-SF Bioinks" 
+* April 9, 2025, Boise, Idaho
+
+```{r, , echo = FALSE,out.width= "50%"}
+
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Brian_GSSC_2025.jpg?raw=true")
+knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Deep_GSSC_2025.jpg?raw=true")
+
+```
+
+## Past Highlights
+
 [**Escaping the winter weather at Orthopaedic Research Society (ORS) 2025!**]{.underline}
 
 * Calvin's Poster: "Nanomechanically Tunable Biomaterials for Directed Myotendinous Junction Tissue Differentiation"
@@ -272,8 +287,6 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/ors_2025.jpg?raw=true")
 
 ```
-
-## Past Highlights
 
 [**Boise State was well represented at Biomedical Engineering Society (BMES) 2024!**]{.underline} 
 
