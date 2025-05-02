@@ -260,17 +260,6 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 ## Recent News
 
-[**Skyler and team present the product of their senior capstone project: a cell culture clinostat to simulate microgravity!**]{.underline}  
-
-* Senior Design Title: "Simulated Microgravity Using Three Dimensional Clinorotation for Cell Culture Experiments" 
-* May 1, 2025, Boise, Idaho
-
-```{r, echo = FALSE}
-
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Skyler_SeniorDesign.jpg?raw=true")
-
-```
-
 [**Taylor and Skyler give a poster presentation at Boise State's 2025 Undergraduate Student Showcase**]{.underline}  
 
 * Title of Poster: "B-Catenin Regulation during TGF-B2-Induced Tenogenesis of Mesenchymal Stem Cells and Impacts on Cadherin Cell-Cell Junctions" 
