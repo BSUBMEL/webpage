@@ -14,7 +14,7 @@ output:
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/BMEL/BMEL_Logo.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\BMEL\\BMEL_Logo.PNG")
 
 ```
 
@@ -23,7 +23,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/Background_Images/Research_Collage.JPEG?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\Background_Images\\Research_Collage.JPEG")
 
 ```
 ```{r, echo = FALSE}
