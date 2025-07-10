@@ -10,7 +10,7 @@ output:
 ---
 
 #  [**Biomaterial and Musculoskeletal Engineering Lab**]{.underline}
-**Est. 2022**
+**2022-2025**
 
 ```{r, echo = FALSE}
 
@@ -26,17 +26,14 @@ knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\B
 knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\Background_Images\\Research_Collage.JPEG")
 
 ```
-```{r, echo = FALSE}
-
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Background_Images/Research_collage_2.jpg?raw=true")
-
-```
 
 <!--# [**Research**]{.underline}-->
 
 **BMEL combines the use natural and synthetic biomaterials along with human and non-human stem cells to develop 3D models of musculoskeletal development and disease, with the ultimate goal of regenerating musculoskeletal tissues following injury or disease.**
 
 **Research in BMEL combines engineering, biology, and materials science to understand how mechanical and biochemical signals drive musculoskeletal development, maturation, and disease. BMEL uses various materials and custom, 3D printed bioreactors and scaffolds to understand how biomechanical cues can be harnessed to regenerate and repair musculoskeletal tissues.**
+
+**Although BMEL is no longer a formal lab, its research initiatives and values continue to thrive through the students who carry them forward into their future endeavors.**
 
 ---
 
@@ -46,7 +43,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Bac
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Sophia.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Sophia.jpg")
 
 ```
 
@@ -60,7 +57,7 @@ Sophia was raised in Athens, Greece, and was fascinated from an early age by how
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Brian%20Penney%20Photo.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Brian Penney Photo.jpeg")
 
 ```
 
@@ -72,7 +69,7 @@ Brian was born in Omaha, Nebraska and grew up in Coeur d'Alene, Idaho. Brian gra
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Calvin.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Calvin.jpeg")
 
 ```
 
@@ -86,7 +83,7 @@ Calvin was born and raised in El Paso, Texas. In 2021, Calvin graduated from Tex
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//images//People//McKaelin.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\McKaelin.jpg")
 
 ```
 
@@ -98,7 +95,7 @@ McKaelin was born and raised in Kauai, Hawaii. McKaelin graduated from Brigham Y
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Deep.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Deep.jpeg")
 
 ```
 
@@ -114,7 +111,7 @@ Sourjjadeepta Biswas, typically known as Sourjja Deep, hails from Bangladesh and
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Chase.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Chase.jpg")
 
 ```
 
@@ -124,7 +121,7 @@ Chase Johnson was born in Davis, CA and originally came to Boise State Universit
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/DanteCalarco.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\DanteCalarco.jpg")
 
 ```
 
@@ -134,7 +131,7 @@ Dante was born and raised in Chico, CA. After high school, Dante did two years a
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Emily.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Emily.jpeg")
 
 ```
 
@@ -144,7 +141,7 @@ Emily was born and raised in Taiwan before immigrating to the U.S. with her fami
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Oliver.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Oliver.jpg")
 
 ```
 
@@ -154,7 +151,7 @@ Oliver Daly was born in Oceanside, CA but grew up in Meridian, ID and is going t
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Skyler.JPG?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Skyler.JPG")
 
 ```
 
@@ -164,7 +161,7 @@ Skyler was born in Morgantown, West Virginia and grew up in Boise, Idaho. Skyler
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Taylor.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Taylor.jpg")
 
 ```
 
@@ -172,15 +169,6 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 Taylor was born in Everett, Washington and raised in Coeur d'Alene, Idaho. In Spring 2023, he graduated from North Idaho College with an Associate Degree in General Studies. Taylor is in his first year of studying Kinesiology with an emphasis in Neuromechanical Science while also pursuing a Biomedical Engineering Minor. He loves to constantly learn as much as possible about everything he can, whether that be inside or outside of his formal education. A career in biology has always been on his radar, and being in BMEL allows him to learn how a lab works while simultaneously contributing to meaningful research. Outside of education, Taylor loves getting outside regardless of the weather or other conditions. During the summers, he works for a whitewater fishing guide company on the Deschutes River, Oregon. The few times that he is not able to get outside, Taylor still loves to learn a variety of skills such as sewing, the German language, daydreaming, and music.
 
-```{r, echo = FALSE}
-
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Topher.jpg?raw=true")
-
-```
-
-**Christopher Turmes**
-
-Topher is an Idahoan native, born and raised in the Boise area. He is currently a CWI student and CAES scholarship recipient, working towards his Associate's in Engineering. After his time at CWI, he plans on transferring to BSU to focus on Biomedical Engineering with a Biochem focus. Originally wanting to be a veterinarian, he came to understand engineering was his true calling. The combination of biology and chemistry in the Biomedical Engineering field brought him in, and now he is chomping at the bit for any research experience. Topher is driven to leverage a research background in pursuit of novel therapeutics and, ultimately, a cure for Eosinophilic Esophagitis. Outside of school, Topher draws, plays video games, gardens, crochets, sews, and goes to local metal and electronic music shows.
 
 ## Interns and Rotating Students
 
@@ -188,7 +176,7 @@ Topher is an Idahoan native, born and raised in the Boise area. He is currently 
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Jonathon_Netter.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Jonathon_Netter.jpeg")
 
 ```
 
@@ -198,7 +186,7 @@ Jonathan was born and raised in Sonoma, California. He completed his Bachelor’
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Karsen_Krebs.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Karsen_Krebs.jpg")
 
 ```
 
@@ -210,7 +198,7 @@ Karsen was born and raised in Plains, MT and graduated from Montana State Univer
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/People/Jordan.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Jordan.jpg")
 
 ```
 
@@ -227,7 +215,7 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/People/Tawa.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Tawa.jpeg")
 
 ```
 
@@ -240,6 +228,22 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 **Now:** In pursuit of completing her undergraduate in Mechanical Engineering!
 
 <!--Tawa Giwa is originally from the vibrant city of Lagos, Nigeria. Currently, Tawa is in the third year of her educational adventure, working towards a degree in mechanical engineering, with an intriguing twist - a minor in Biomedical Engineering. From a young age, Tawa has been fascinated by the intricate workings of machines and the endless possibilities they offer. This fascination led Tawa to choose mechanical engineering as my field of study, where she's been exposed to a world of design, innovation, and problem-solving. Simultaneously, Tawa's minor in Biomedical Engineering allows her to explore the fascinating intersection between technology and healthcare, where she hopes to make a meaningful impact in the future. Away from the world of academia, Tawa has a rather unique hobby - exploring the global culinary landscape. Food, for her, is not just sustenance; it's a passport to different cultures and traditions. Whether she's savoring the intricate flavors of Asian cuisine or indulging in the comforting familiarity of home-cooked meals, Tawa is always excited to explore new tastes and experiences.-->
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\People\\Topher.jpg")
+
+```
+
+**Christopher Turmes**
+
+**Position Held:** Undergraduate Researcher
+
+**At BMEL:** Christopher was actively involved in several lab processes such as western blot, cell culture, and biomaterial synthesis, but was also an integral part of lab organization and data storage.
+
+**Now:** In pursuit of an undergraduate degree in Engineering with an emphasis on biology!
+
+<!--Topher is an Idahoan native, born and raised in the Boise area. He is currently a CWI student and CAES scholarship recipient, working towards his Associate's in Engineering. After his time at CWI, he plans on transferring to BSU to focus on Biomedical Engineering with a Biochem focus. Originally wanting to be a veterinarian, he came to understand engineering was his true calling. The combination of biology and chemistry in the Biomedical Engineering field brought him in, and now he is chomping at the bit for any research experience. Topher is driven to leverage a research background in pursuit of novel therapeutics and, ultimately, a cure for Eosinophilic Esophagitis. Outside of school, Topher draws, plays video games, gardens, crochets, sews, and goes to local metal and electronic music shows.-->
 
 ---
 
@@ -260,6 +264,18 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 ## Recent News
 
+[**Deep successfully defends his Master's Thesis!**]{.underline}  
+
+* Title of Defense: "Harnessing the Mechanical and Gelation Behavior of Tyramine-Substitused Silk Fibroin Bioinks through Intergration into a Modular and Low-Cost 3D Bioprinting Platform" 
+* July 8, 2025, Boise, Idaho
+
+```{r, echo = FALSE}
+
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Deep_Defense.jpg")
+
+```
+
+
 [**Taylor and Skyler give a poster presentation at Boise State's 2025 Undergraduate Student Showcase**]{.underline}  
 
 * Title of Poster: "B-Catenin Regulation during TGF-B2-Induced Tenogenesis of Mesenchymal Stem Cells and Impacts on Cadherin Cell-Cell Junctions" 
@@ -267,7 +283,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/Peo
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Taylor_Skyler_USSC_2025.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Taylor_Skyler_USSC_2025.jpg")
 
 ```
 
@@ -279,8 +295,8 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, , echo = FALSE,out.width= "50%"}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Brian_GSSC_2025.jpg?raw=true")
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Deep_GSSC_2025.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Brian_GSSC_2025.jpg")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Deep_GSSC_2025.jpg")
 
 ```
 
@@ -295,7 +311,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, , echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/ors_2025.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\ors_2025.jpg")
 
 ```
 
@@ -313,11 +329,11 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, , echo = FALSE}
 
-knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//images//News//Calvin_BMES24.JPEG?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Calvin_BMES24.JPEG")
 
-knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//images//News//Brian_BMES24.JPEG?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Brian_BMES24.JPEG")
 
-knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//images//News//Deep_BMES24.JPEG?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Deep_BMES24.JPEG")
 
 ```
 
@@ -330,7 +346,7 @@ knitr::include_graphics("https://github.com//BSUBMEL//webpage//blob//main//image
 
 ```{r, , echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/GRC_2024_Group_Photo.png?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\GRC_2024_Group_Photo.png")
 
 ```
 
@@ -342,7 +358,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, , echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/skyler__ICUR2024_1.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\skyler__ICUR2024_1.jpg")
 
 ```
 
@@ -353,7 +369,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Luminary_2024.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Luminary_2024.jpg")
 
 ```
 
@@ -365,7 +381,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Sophia_Podium_ORS2024.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Sophia_Podium_ORS2024.jpg")
 
 ```
 
@@ -375,7 +391,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Bioprinting23_Collage.JPEG?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\GroupPhoto_EuropeanOpenSourceBioprinting_23.jpg")
 
 ```
 
@@ -388,14 +404,14 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Group_BMES2023.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Group_BMES2023.jpeg")
 
 ```
 ```{r, echo = FALSE, out.width= "50%"}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Brian_Jordan_BMES23.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Brian_Jordan_BMES23.jpeg")
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Calvin_Jordan_BMES23.jpeg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Calvin_Jordan_BMES23.jpeg")
 
 ```
 
@@ -407,7 +423,7 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/News/Calvin_Intership.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Calvin_Intership.jpg")
 
 ```
 
@@ -419,9 +435,9 @@ knitr::include_graphics("https://github.com/BSUBMEL/webpage/blob/main/images/New
 
 ```{r, echo = FALSE, out.width= "50%"}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/News/Brian_GSSC_23.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Brian_GSSC_23.jpg")
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/News/Calvin_GSSC_23.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\Calvin_GSSC_23.jpg")
 
 ```
 
@@ -431,20 +447,9 @@ knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob
 
 ```{r, echo = FALSE}
 
-knitr::include_graphics("https://github.com/calvinjones64/BMEL-Git-Hub-Page/blob/main/images/News/ORS_2023.jpg?raw=true")
+knitr::include_graphics("C:\\Users\\rhino\\Documents\\GitHub\\webpage\\images\\News\\ORS_2023.jpg")
 
 ```
-
---- 
-
-# [**Contact Us**]{.underline}
-
-* For all inquiries please email Sophia Theodossiou, Ph.D.
-  + sophiatheodossiou@boisestate.edu
-  
-## Available Postitions 
-
-* There are currently no openings for positions within the lab, however, undergraduates and potential graduate students are always encouraged to inquire. 
 
 --- 
 
